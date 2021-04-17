@@ -1,0 +1,42 @@
+Roster:
+    1 OT Player
+    2 OT Player
+    3 OG Player
+    4 OG Player
+    5 C Player
+    6 QB Player
+    7 WR Player
+    8 WR Player
+    9 TE Player
+    10 TE Player
+    11 RB Player
+Yard Line:
+    40
+Play Type:
+    Pass
+Formation:
+    2 OT
+    2 OG
+    1 C
+    1 QB
+    2 WR
+    2 TE
+    1 RB
+Positions:
+    1 Left
+    2 Right
+    3 Left
+    4 Right
+    5 Center
+    6 Lined
+    7 Lined Middle Left
+    8 Lined Middle Right
+    9 Lined Left
+    10 Lined Right
+    11 Left First
+Routes:
+    7 Slant Right
+    8 (Main) Slant Left
+    9 Flat Left
+    10 Flat Right
+    11 Wheel Left

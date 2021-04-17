@@ -1,0 +1,42 @@
+Roster:
+        76 OT Offensive Tackle One
+        68 OG Offensive Guard One
+        69 OT Offensive Tackle Two
+        70 OG Offensive Guard Two
+        60 C CEnter One
+        1 QB Quarterback One
+        87 TE Tight End One
+        89 TE Tight End Two
+        12 WR Wide Receiver One
+        11 WR Wide Receiver Two
+        14 WR Wide Receiver Three
+        16 WR Wide Receiver Four
+        28 RB Running Back One
+        26 HB Half Back One
+        37 FB Full Back One 
+Yard Line:
+        45
+Play Type:
+        Run
+Formation:
+        2 OT
+        2 OG
+        1 C
+        2 TE
+        2 WR
+        1 QB
+        1 RB
+Positions:
+        76 Left
+        68 Left
+        60 Center
+        69 Right
+        70 Right
+        1 Lined
+        87 Lined Left
+	89 Lined Right
+        11 Idented Close Left
+        12 Idented Far Left
+        28 Lined Second
+Routes:
+        28 (Main) Stop N Go
