@@ -2,7 +2,9 @@
 
 A football compiler, able to create some offensive playbooks by declaring your players, a formation and their routes.
 
-<img src="img/CurlFlat.png" alt="Girl in a jacket" width="50%" style="display: block; margin: auto;">
+<div align="center">
+<img src="img/CurlFlat.png" alt="Girl in a jacket" width="50%">
+</div>
 
 ## Getting Started
 
