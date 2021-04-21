@@ -1,8 +1,8 @@
 # Offensive Playbook Compiler
 
-<img src="img/CurlFlat.png" alt="Girl in a jacket" width="50%" style="display: block; margin: auto;">
-
 A football compiler, able to create some offensive playbooks by declaring your players, a formation and their routes.
+
+<img src="img/CurlFlat.png" alt="Girl in a jacket" width="50%" style="display: block; margin: auto;">
 
 ## Getting Started
 
